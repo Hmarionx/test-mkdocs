@@ -1,12 +1,55 @@
-site_name: Test MkDocs
-site_description: Site de test pour GitHub Pages
+site_name: Révisions Bac Pro – Histoire-Géo-EMC
+site_description: Notes de révision pour les élèves de Terminale Bac Pro (Histoire, Géographie, EMC)
 # À adapter : https://<utilisateur>.github.io/<depot>/
-site_url: https://UTILISATEUR.github.io/test-mkdocs/
+site_url: https://hmarionx.github.io/test-mkdocs/
 
 theme:
   name: material
   language: fr
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clair
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 nav:
   - Accueil: index.md
-  - À propos: about.md
+  - Méthode et épreuve: methode.md
+  - Histoire:
+      - histoire/index.md
+      - "Thème 1 – Le jeu des puissances":
+          - La guerre froide: histoire/guerre-froide.md
+          - La décolonisation: histoire/decolonisation.md
+          - La construction européenne: histoire/construction-europeenne.md
+          - Le monde depuis 1991: histoire/monde-depuis-1991.md
+      - "Thème 2 – Vivre en France en démocratie":
+          - Les institutions: histoire/institutions.md
+          - Droits et société: histoire/droits-societe.md
+  - Géographie: geographie/index.md
+  - EMC: emc/index.md
+  - Repères: reperes.md
