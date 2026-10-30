@@ -44,6 +44,33 @@
 - **3 octobre 1990** : réunification de l'Allemagne.
 - **25 décembre 1991** : l'**URSS disparaît**. Les États-Unis restent la seule superpuissance.
 
+## Carte
+
+*Les lieux de la guerre froide. Clique sur un repère pour afficher l'événement et le lien Wikipédia.*
+
+<div class="carte" id="carte-guerre-froide"></div>
+
+## Pour aller plus loin
+
+Articles Wikipédia sur les grands événements de cette fiche :
+
+- [La guerre froide](https://fr.wikipedia.org/wiki/Guerre_froide)
+- [La doctrine Truman](https://fr.wikipedia.org/wiki/Doctrine_Truman)
+- [Le plan Marshall](https://fr.wikipedia.org/wiki/Plan_Marshall)
+- [Le blocus de Berlin](https://fr.wikipedia.org/wiki/Blocus_de_Berlin)
+- [L'OTAN](https://fr.wikipedia.org/wiki/Organisation_du_trait%C3%A9_de_l'Atlantique_nord)
+- [Le pacte de Varsovie](https://fr.wikipedia.org/wiki/Pacte_de_Varsovie)
+- [La guerre de Corée](https://fr.wikipedia.org/wiki/Guerre_de_Cor%C3%A9e)
+- [La révolution hongroise de 1956](https://fr.wikipedia.org/wiki/R%C3%A9volution_hongroise_de_1956)
+- [Le mur de Berlin](https://fr.wikipedia.org/wiki/Mur_de_Berlin)
+- [La crise des missiles de Cuba](https://fr.wikipedia.org/wiki/Crise_des_missiles_de_Cuba)
+- [La guerre du Viêt Nam](https://fr.wikipedia.org/wiki/Guerre_du_Vi%C3%AAt_Nam)
+- [Mikhaïl Gorbatchev](https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Gorbatchev)
+- [La perestroïka](https://fr.wikipedia.org/wiki/Perestro%C3%AFka)
+- [La chute du mur de Berlin](https://fr.wikipedia.org/wiki/Chute_du_mur_de_Berlin)
+- [La réunification allemande](https://fr.wikipedia.org/wiki/R%C3%A9unification_allemande)
+- [La dissolution de l'URSS](https://fr.wikipedia.org/wiki/Dissolution_de_l'URSS)
+
 ## Pour t'entraîner
 
 ??? question "Pourquoi parle-t-on de « guerre froide » ?"

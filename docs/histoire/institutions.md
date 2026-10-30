@@ -48,6 +48,20 @@
 | **1986-1988, 1993-1995, 1997-2002** | Trois périodes de **cohabitation** |
 | **2000-2002** | Le mandat présidentiel passe de 7 à 5 ans (**quinquennat**) |
 
+## Pour aller plus loin
+
+Articles Wikipédia sur les grands événements de cette fiche :
+
+- [La IVe République](https://fr.wikipedia.org/wiki/Quatri%C3%A8me_R%C3%A9publique_%28France%29)
+- [La crise de mai 1958](https://fr.wikipedia.org/wiki/Crise_de_mai_1958)
+- [La Constitution de 1958](https://fr.wikipedia.org/wiki/Constitution_du_4_octobre_1958)
+- [La Ve République](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_%28France%29)
+- [Charles de Gaulle](https://fr.wikipedia.org/wiki/Charles_de_Gaulle)
+- [Le référendum de 1962](https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_constitutionnel_fran%C3%A7ais_de_1962)
+- [Mai 68](https://fr.wikipedia.org/wiki/Mai_68)
+- [La cohabitation](https://fr.wikipedia.org/wiki/Cohabitation_%28politique%29)
+- [Le quinquennat](https://fr.wikipedia.org/wiki/Quinquennat_en_France)
+
 ## Pour t'entraîner
 
 ??? question "Quand naît la Ve République ?"

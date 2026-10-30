@@ -54,6 +54,30 @@
 - Beaucoup choisissent le **non-alignement** ; d'autres s'allient à l'un des deux blocs.
 - Les frontières héritées de la colonisation provoquent parfois des conflits.
 
+## Carte
+
+*Les grands lieux de la décolonisation. Clique sur un repère pour afficher l'événement et le lien Wikipédia.*
+
+<div class="carte" id="carte-decolonisation"></div>
+
+## Pour aller plus loin
+
+Articles Wikipédia sur les grands événements de cette fiche :
+
+- [La décolonisation](https://fr.wikipedia.org/wiki/D%C3%A9colonisation)
+- [L'indépendance de l'Inde](https://fr.wikipedia.org/wiki/Ind%C3%A9pendance_de_l'Inde)
+- [La guerre d'Indochine](https://fr.wikipedia.org/wiki/Guerre_d'Indochine)
+- [La bataille de Diên Biên Phu](https://fr.wikipedia.org/wiki/Bataille_de_Di%C3%AAn_Bi%C3%AAn_Phu)
+- [La conférence de Bandung](https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Bandung)
+- [La crise du canal de Suez](https://fr.wikipedia.org/wiki/Crise_du_canal_de_Suez)
+- [La guerre d'Algérie](https://fr.wikipedia.org/wiki/Guerre_d'Alg%C3%A9rie)
+- [Le FLN](https://fr.wikipedia.org/wiki/Front_de_lib%C3%A9ration_nationale_%28Alg%C3%A9rie%29)
+- [Les accords d'Évian](https://fr.wikipedia.org/wiki/Accords_d'%C3%89vian)
+- [La décolonisation de l'Afrique](https://fr.wikipedia.org/wiki/D%C3%A9colonisation_de_l'Afrique)
+- [Chronologie de la décolonisation de l'Afrique](https://fr.wikipedia.org/wiki/Chronologie_de_la_d%C3%A9colonisation_de_l'Afrique)
+- [Le tiers-monde](https://fr.wikipedia.org/wiki/Tiers-monde)
+- [Le mouvement des non-alignés](https://fr.wikipedia.org/wiki/Mouvement_des_non-align%C3%A9s)
+
 ## Pour t'entraîner
 
 ??? question "Que s'est-il passé en 1960 en Afrique ?"

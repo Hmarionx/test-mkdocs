@@ -43,6 +43,24 @@
 - **Jeunesse** : massification scolaire, allongement des études, **mai 1968**.
 - **Mutations du travail** : déclin de l'industrie, essor des services, précarité.
 
+## Pour aller plus loin
+
+Articles Wikipédia sur les grands événements de cette fiche :
+
+- [La Sécurité sociale](https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_sociale_en_France)
+- [Les Trente Glorieuses](https://fr.wikipedia.org/wiki/Trente_Glorieuses)
+- [Le premier choc pétrolier](https://fr.wikipedia.org/wiki/Premier_choc_p%C3%A9trolier)
+- [Le droit de vote des femmes](https://fr.wikipedia.org/wiki/Droit_de_vote_des_femmes_en_France)
+- [La loi Neuwirth](https://fr.wikipedia.org/wiki/Loi_Neuwirth)
+- [La loi Veil](https://fr.wikipedia.org/wiki/Loi_Veil)
+- [La loi sur la parité (2000)](https://fr.wikipedia.org/wiki/Loi_tendant_%C3%A0_favoriser_l'%C3%A9gal_acc%C3%A8s_des_femmes_et_des_hommes_aux_mandats_%C3%A9lectoraux_et_fonctions_%C3%A9lectives)
+- [L'abolition de la peine de mort](https://fr.wikipedia.org/wiki/Abolition_de_la_peine_de_mort_en_France)
+- [Robert Badinter](https://fr.wikipedia.org/wiki/Robert_Badinter)
+- [La décentralisation](https://fr.wikipedia.org/wiki/D%C3%A9centralisation_en_France)
+- [Le PACS](https://fr.wikipedia.org/wiki/Pacte_civil_de_solidarit%C3%A9)
+- [Le mariage pour tous](https://fr.wikipedia.org/wiki/Mariage_entre_personnes_de_m%C3%AAme_sexe_en_France)
+- [L'IVG en France](https://fr.wikipedia.org/wiki/Interruption_volontaire_de_grossesse_en_France)
+
 ## Pour t'entraîner
 
 ??? question "Quand les femmes votent-elles pour la première fois en France ?"

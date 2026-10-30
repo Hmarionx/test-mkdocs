@@ -42,6 +42,28 @@
 | **Union européenne** | Puissance économique et normative |
 | **ONU** | Cadre de discussion et d'action collective, parfois paralysé |
 
+## Carte
+
+*Les grands événements depuis 1991. Clique sur un repère pour afficher l'événement et le lien Wikipédia.*
+
+<div class="carte" id="carte-monde-1991"></div>
+
+## Pour aller plus loin
+
+Articles Wikipédia sur les grands événements de cette fiche :
+
+- [La guerre du Golfe](https://fr.wikipedia.org/wiki/Guerre_du_Golfe)
+- [Les guerres de Yougoslavie](https://fr.wikipedia.org/wiki/Guerres_de_Yougoslavie)
+- [Le génocide des Tutsi au Rwanda](https://fr.wikipedia.org/wiki/G%C3%A9nocide_des_Tutsi_au_Rwanda)
+- [Les attentats du 11 septembre 2001](https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001)
+- [La guerre d'Afghanistan](https://fr.wikipedia.org/wiki/Guerre_d'Afghanistan_%282001-2021%29)
+- [La guerre d'Irak](https://fr.wikipedia.org/wiki/Guerre_d'Irak)
+- [Les printemps arabes](https://fr.wikipedia.org/wiki/Printemps_arabe)
+- [L'annexion de la Crimée (2014)](https://fr.wikipedia.org/wiki/Annexion_de_la_Crim%C3%A9e_par_la_Russie_en_2014)
+- [L'invasion de l'Ukraine (2022)](https://fr.wikipedia.org/wiki/Invasion_de_l'Ukraine_par_la_Russie_en_2022)
+- [Les BRICS](https://fr.wikipedia.org/wiki/BRICS)
+- [L'ONU](https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies)
+
 ## Pour t'entraîner
 
 ??? question "Que s'est-il passé le 11 septembre 2001 ?"

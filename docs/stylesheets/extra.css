@@ -1,0 +1,6 @@
+.carte {
+  height: 420px;
+  border-radius: 0.2rem;
+  margin: 1rem 0;
+  z-index: 0;
+}

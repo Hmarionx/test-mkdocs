@@ -49,6 +49,28 @@
 - **Guerre en Ukraine** depuis 2022 : sécurité et énergie.
 - **Élargissement** vers de nouveaux pays candidats.
 
+## Carte
+
+*Les lieux de l'Europe. Clique sur un repère pour afficher l'événement et le lien Wikipédia.*
+
+<div class="carte" id="carte-europe"></div>
+
+## Pour aller plus loin
+
+Articles Wikipédia sur les grands événements de cette fiche :
+
+- [La déclaration Schuman](https://fr.wikipedia.org/wiki/D%C3%A9claration_Schuman)
+- [Robert Schuman](https://fr.wikipedia.org/wiki/Robert_Schuman)
+- [La CECA](https://fr.wikipedia.org/wiki/Communaut%C3%A9_europ%C3%A9enne_du_charbon_et_de_l'acier)
+- [Le traité de Rome (1957)](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Rome_%281957%29)
+- [Le traité de Maastricht](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Maastricht)
+- [Les accords de Schengen](https://fr.wikipedia.org/wiki/Accords_de_Schengen)
+- [L'euro](https://fr.wikipedia.org/wiki/Euro)
+- [L'élargissement de 2004](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_%C3%A9largissement_de_l'Union_europ%C3%A9enne)
+- [Le Brexit](https://fr.wikipedia.org/wiki/Brexit)
+- [L'Union européenne](https://fr.wikipedia.org/wiki/Union_europ%C3%A9enne)
+- [Erasmus+](https://fr.wikipedia.org/wiki/Erasmus%2B)
+
 ## Pour t'entraîner
 
 ??? question "Qui est Robert Schuman et que propose-t-il en 1950 ?"
