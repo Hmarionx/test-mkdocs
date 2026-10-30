@@ -19,7 +19,7 @@ Notes de révision pour les élèves de **Terminale Bac Pro**, en préparation d
 3. **Teste-toi** avec les questions « Pour t'entraîner » en bas de chaque page (clique pour voir la réponse).
 4. **Reviens** sur ce que tu as oublié le lendemain, puis une semaine plus tard.
 
-!!! tip "Astuce"
+!!! tip "Astuces"
     Utilise la barre de recherche en haut pour retrouver une date, un événement ou un mot de vocabulaire.
 
 !!! warning "À vérifier"
