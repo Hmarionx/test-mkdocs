@@ -1,0 +1,12 @@
+site_name: Test MkDocs
+site_description: Site de test pour GitHub Pages
+# À adapter : https://<utilisateur>.github.io/<depot>/
+site_url: https://UTILISATEUR.github.io/test-mkdocs/
+
+theme:
+  name: material
+  language: fr
+
+nav:
+  - Accueil: index.md
+  - À propos: about.md
